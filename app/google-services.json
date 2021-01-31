@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974481660311",
+    "firebase_url": "https://electrica-3c5c1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "electrica-3c5c1",
+    "storage_bucket": "electrica-3c5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974481660311:android:53ac10d2fe31cf83318cd2",
+        "android_client_info": {
+          "package_name": "com.example.electrica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974481660311-nmulg2ls8ab5tlj91f1qmjqk5eneq8u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe1MmICaMoqTvu55c_XykHQ31jGopchO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974481660311-nmulg2ls8ab5tlj91f1qmjqk5eneq8u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
