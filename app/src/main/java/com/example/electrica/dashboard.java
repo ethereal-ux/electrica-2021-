@@ -71,5 +71,12 @@ public class dashboard extends FragmentActivity {
         startActivity(intent);
         Animatoo.animateInAndOut(this);
     }
+    public void book_slot(View view)
+    {
+
+        Intent intent = new Intent(getApplicationContext(), maps.class);
+        startActivity(intent);
+        Animatoo.animateInAndOut(this);
+    }
 
 }
